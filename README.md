@@ -23,6 +23,7 @@ Getting Started
 
  * Install it with:
    * [NPM](https://www.npmjs.com) via `npm install --save ng-infinite-scroll`
+   * [Bower](https://bower.io) via `bower install --save ngInfiniteScroll`
  * Import ng-infinite-scroll and angular.
 
         import angular from 'angular';
